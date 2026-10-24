@@ -10,3 +10,5 @@ https://www.yuque.com/g/basil/edq6hh/kp6w5bk7byfbwx62/collaborator/join?token=ou
 https://www.yuque.com/g/basil/edq6hh/kicd5unn3gma0xpf/collaborator/join?token=kreE64sUq77ISY1G&source=doc_collaborator# 《CMake实践任务》
 
 https://www.yuque.com/g/basil/edq6hh/bxnl372ip3hoo88g/collaborator/join?token=W14LIqCrem8S1BGZ&source=doc_collaborator# 《LLM实践任务》
+
+https://www.yuque.com/g/basil/edq6hh/yo0trhng5knu014g/collaborator/join?token=P0gE9JPJ69TGtA5x&source=doc_collaborator# 《ROS2学习内容》
